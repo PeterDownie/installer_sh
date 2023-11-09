@@ -28,6 +28,7 @@ programs=(
 "handbrake"		# Disc Copying GUI
 "handbrake-cli"		# Disc Copying CLI
 "wget"			# Download Files
+"barrier"		# Virtual KVM Software
 )
 
 #browers 
