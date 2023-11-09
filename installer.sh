@@ -34,6 +34,7 @@ programs=(
 programs+=(
 "firefox"		# Web Browser
 "chromium-browser"	# Web Browser
+"links2"		# CLI Browser
 )
 
 #games
