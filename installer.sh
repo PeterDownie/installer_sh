@@ -45,9 +45,10 @@ programs+=("2048"	# 2048 CLI
 )
 
 #this installs the programs in the array programs.
+sudo apt install nala
 for currentProgram in "${programs[@]}"
 do
-	sudo apt install "$currentProgram" -y
+	sudo nala install "$currentProgram"
 done
 
 # Other programs
